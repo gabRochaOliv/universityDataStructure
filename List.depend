@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1689020561 source:d:\users\temporario\desktop\list\lista.c
+	"lista.h"
+
+1689020561 d:\users\temporario\desktop\list\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1689020561 source:d:\users\temporario\desktop\list\main.c
+	"lista.h"
+
